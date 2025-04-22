@@ -4,6 +4,11 @@
 
 MindTag is a minimal AI-powered tool to capture your thoughts, auto-tag them, and retrieve them intelligently. It’s your second brain, simplified.
 
+## ⭐ Website & Twitter
+
+- Website: https://mindtag.xyz
+- Twitter: https://x.com/MindTagAI/
+
 ## 🚀 Features
 - Smart note capture (text)
 - Instant AI-generated tags
