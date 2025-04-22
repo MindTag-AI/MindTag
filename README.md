@@ -23,8 +23,17 @@ npm run dev
 
 ## 🛣️ Roadmap
 - [x] MVP - Text note tagging
-- [ ] Voice note support
-- [ ] Tag-based reminders
+- [x] AI Tagging
+- [ ] TXT Note
+- [ ] Basic Search
+- [ ] Access to community support
+- [ ] Voice Notes
+- [ ] Mood Detection
+- [ ] Tag-Based Reminders
+- [ ] Export to Notion/Obsidian
+- [ ] Shareable Tags/Ideas
+- [ ] API access & customization
+- [ ] 24/7 support (phone, email)
 - [ ] Notion/Obsidian export
 - [ ] API + Plugin support
 
